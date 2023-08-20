@@ -1,0 +1,6 @@
+myvenv
+not_included
+__pycache__
+build
+dist
+main.spec

@@ -1,0 +1,299 @@
+Cassiopeia:
+  kor: 카시오페아
+  cost: 1
+  origin: Noxus,Shurima,Invoker
+  origin_kor: 녹서스,슈리마,기원자
+Chogath:
+  kor: 초가스
+  cost: 1
+  origin: Void,Bruiser
+  origin_kor: 공허,난동꾼
+Irelia:
+  kor: 이렐리아
+  cost: 1
+  origin: Ionia,Challenger
+  origin_kor: 아이오니아,도전자
+Jhin:
+  kor: 진
+  cost: 1
+  origin: Ionia,Deadeye
+  origin_kor: 아이오니아,백발백중
+Kayle:
+  kor: 케일
+  cost: 1
+  origin: Demacia,Slayer
+  origin_kor: 데마시아,학살자
+Malzahar:
+  kor: 말자하
+  cost: 1
+  origin: Void,Sorcerer
+  origin_kor: 공허,마법사
+Maokai:
+  kor: 마오카이
+  cost: 1
+  origin: ShadowIsles,Bastion
+  origin_kor: 그림자군도,요새
+Orianna:
+  kor: 오리아나
+  cost: 1
+  origin: Piltover,Sorcerer
+  origin_kor: 필트오버,마법사
+Poppy:
+  kor: 뽀삐
+  cost: 1
+  origin: Yordle,Demacia,Bastion
+  origin_kor: 요들,데마시아,요새
+Renekton:
+  kor: 레넥톤
+  cost: 1
+  origin: Shurima,Bruiser
+  origin_kor: 슈리마,난동꾼
+Samira:
+  kor: 사미라
+  cost: 1
+  origin: Noxus,Challenger
+  origin_kor: 녹서스,도전자
+Tristana:
+  kor: 트리스타나
+  cost: 1
+  origin: Yordle,Gunner
+  origin_kor: 요들,사수
+Viego:
+  kor: 비에고
+  cost: 1
+  origin: ShadowIsles,Rogue
+  origin_kor: 그림자군도,불한당
+
+Ashe:
+  kor: 애쉬
+  cost: 2
+  origin: Freljord,Deadeye
+  origin_kor: 프렐요드,백발백중
+Galio:
+  kor: 갈리오
+  cost: 2
+  origin: Demacia,Invoker
+  origin_kor: 데마시아,기원자
+Jinx:
+  kor: 징크스
+  cost: 2
+  origin: Zaun,Gunner
+  origin_kor: 자운,사수
+Kassadin:
+  kor: 카사딘
+  cost: 2
+  origin: Void,Bastion
+  origin_kor: 공허,요새
+Kled:
+  kor: 클레드
+  cost: 2
+  origin: Noxus,Yordle,Slayer
+  origin_kor: 녹서스,요들,학살자
+Sett:
+  kor: 세트
+  cost: 2
+  origin: Ionia,Juggernaut
+  origin_kor: 아이오니아,전쟁기계
+Soraka:
+  kor: 소라카
+  cost: 2
+  origin: Targon,Invoker
+  origin_kor: 타곤,기원자
+Swain:
+  kor: 스웨인
+  cost: 2
+  origin: Noxus,Strategist,Sorcerer
+  origin_kor: 녹서스,책략가,마법사
+Taliyah:
+  kor: 탈리야
+  cost: 2
+  origin: Shurima,Multicaster
+  origin_kor: 슈리마,연쇄마법사
+Teemo:
+  kor: 티모
+  cost: 2
+  origin: Yordle,Strategist,Multicaster
+  origin_kor: 요들,책략가,연쇄마법사
+Vi:
+  kor: 바이
+  cost: 2
+  origin: Piltover,Bruiser
+  origin_kor: 필트오버,난동꾼
+Warwick:
+  kor: 워윅
+  cost: 2
+  origin: Zaun,Juggernaut,Challenger
+  origin_kor: 자운,전쟁기계,도전자
+Zed:
+  kor: 제드
+  cost: 2
+  origin: Ionia,Rogue,Slayer
+  origin_kor: 아이오니아,불한당,학살자
+
+Akshan:
+  kor: 아크샨
+  cost: 3
+  origin: Shurima,Deadeye
+  origin_kor: 슈리마,백발백중
+Darius:
+  kor: 다리우스
+  cost: 3
+  origin: Noxus,Juggernaut
+  origin_kor: 녹서스,전쟁기계
+Ekko:
+  kor: 에코
+  cost: 3
+  origin: Zaun,Piltover,Rogue
+  origin_kor: 자운,필트오버,불한당
+Garen:
+  kor: 가렌
+  cost: 3
+  origin: Demacia,Juggernaut
+  origin_kor: 데마시아,전쟁기계
+Jayce:
+  kor: 제이스
+  cost: 3
+  origin: Piltover,Gunner
+  origin_kor: 필트오버,사수
+Kalista:
+  kor: 칼리스타
+  cost: 3
+  origin: ShadowIsles,Challenger
+  origin_kor: 그림자군도,도전자
+Karma:
+  kor: 카르마
+  cost: 3
+  origin: Ionia,Invoker
+  origin_kor: 아이오니아,기원자
+Katarina:
+  kor: 카타리나
+  cost: 3
+  origin: Noxus,Rogue
+  origin_kor: 녹서스,불한당
+Lissandra:
+  kor: 리산드라
+  cost: 3
+  origin: Freljord,Invoker
+  origin_kor: 프렐요드,기원자
+RekSai:
+  kor: 렉사이
+  cost: 3
+  origin: Void,Bruiser
+  origin_kor: 공허,난동꾼
+Sona:
+  kor: 소나
+  cost: 3
+  origin: Demacia,Multicaster
+  origin_kor: 데마시아,연쇄마법사
+Taric:
+  kor: 타릭
+  cost: 3
+  origin: Targon,Bastion,Sorcerer
+  origin_kor: 타곤,요새,마법사
+Velkoz:
+  kor: 벨코즈
+  cost: 3
+  origin: Void,Multicaster,Sorcerer
+  origin_kor: 공허,연쇄마법사,마법사
+
+Aphelios:
+  kor: 아펠리오스
+  cost: 4
+  origin: Targon,Deadeye
+  origin_kor: 타곤,백발백중
+Azir:
+  kor: 아지르
+  cost: 4
+  origin: Shurima,Strategist
+  origin_kor: 슈리마,책략가
+Gwen:
+  kor: 그웬
+  cost: 4
+  origin: ShadowIsles,Slayer
+  origin_kor: 그림자군도,학살자
+JarvanIV:
+  kor: 자르반4세
+  cost: 4
+  origin: Demacia,Strategist
+  origin_kor: 데마시아,책략가
+Kaisa:
+  kor: 카이사
+  cost: 4
+  origin: Void,Challenger
+  origin_kor: 공허,도전자
+Lux:
+  kor: 럭스
+  cost: 4
+  origin: Demacia,Sorcerer
+  origin_kor: 데마시아,마법사
+Nasus:
+  kor: 나서스
+  cost: 4
+  origin: Shurima,Juggernaut
+  origin_kor: 슈리마,전쟁기계
+Sejuani:
+  kor: 세주아니
+  cost: 4
+  origin: Freljord,Bruiser
+  origin_kor: 프렐요드,난동꾼
+Shen:
+  kor: 쉔
+  cost: 4
+  origin: Ionia,Bastion,Invoker
+  origin_kor: 아이오니아,요새,기원자
+Urgot:
+  kor: 우르곳
+  cost: 4
+  origin: Zaun,Deadeye
+  origin_kor: 자운,백발백중
+Yasuo:
+  kor: 야스오
+  cost: 4
+  origin: Ionia,Challenger
+  origin_kor: 아이오니아,도전자
+Zeri:
+  kor: 제리
+  cost: 4
+  origin: Zaun,Gunner
+  origin_kor: 자운,사수
+
+Aatrox:
+  kor: 아트록스
+  cost: 5
+  origin: Darkin,Slayer,Juggernaut
+  origin_kor: 다르킨,학살자,전쟁기계
+Ahri:
+  kor: 아리
+  cost: 5
+  origin: Ionia,Sorcerer
+  origin_kor: 아이오니아,마법사
+BelVeth:
+  kor: 벨베스
+  cost: 5
+  origin: Empress,Void
+  origin_kor: 여제,공허
+Heimerdinger:
+  kor: 하이머딩거
+  cost: 5
+  origin: Piltover,Yordle,Technogenius
+  origin_kor: 필트오버,요들,발명의대가
+Ksante:
+  kor: 크산테
+  cost: 5
+  origin: Shurima,Bastion
+  origin_kor: 슈리마,요새
+Ryze:
+  kor: 라이즈
+  cost: 5
+  origin: Wonderer,Invoker
+  origin_kor: 방랑자,기원자
+Senna:
+  kor: 세나
+  cost: 5
+  origin: ShadowIsles,Gunner,Redeemer
+  origin_kor: 그림자군도,사수,구원자
+Sion:
+  kor: 사이온
+  cost: 5
+  origin: Noxus,Bruiser
+  origin_kor: 녹서스,난동꾼
