@@ -13,6 +13,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from time import sleep
 import yaml
 
+# pyinstaller -w -F main.py
+
 def update_db(do=False):
     if do or not os.path.exists('data/deck_list.pkl'):
         if not do:
@@ -124,7 +126,7 @@ def select_phase(window, deck_list, rec_list=[], sel_rec='0', sel_phase='ini'):
         for deck_no,deck in enumerate(deck_list):
             if deck['name'] == rec_list[int(sel_rec)]['name']:
                 window['deck_viewer'].update(filename=f'img/deck/deck{deck_no}_{sel_phase}.png')
-                # print('파일명:'+f'img/deck/deck{deck_no}_{sel_phase}.png')
+                print('파일명:'+f'img/deck/deck{deck_no}_{sel_phase}.png')
 
     # Phase 버튼 업데이트
     if rec_list == []:
@@ -247,6 +249,7 @@ def run_gui():
             sel_list[idx] = not sel_list[idx]
             rec_list = recommand_deck(deck_list, champ_dict, sel_list)
             window = select_deck(window, options, deck_list, rec_list)
+            sel_rec = '0'
             window.refresh()
             window['rec_col'].contents_changed()
 
@@ -277,12 +280,13 @@ def run_gui():
             window.refresh()
 
         elif 'rec' in event:
-            window = select_deck(window, options, deck_list, rec_list, sel_rec=event[3:])
+            sel_rec = event[3:]
+            window = select_deck(window, options, deck_list, rec_list, sel_rec=sel_rec)
             window.refresh()
             window['rec_col'].contents_changed()
 
         elif 'phase' in event:
-            window = select_phase(window, deck_list, rec_list, sel_phase=event[-3:])
+            window = select_phase(window, deck_list, rec_list, sel_rec=sel_rec, sel_phase=event[-3:])
             window.refresh()
 
         else:
